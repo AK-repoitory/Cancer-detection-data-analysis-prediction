@@ -7,7 +7,8 @@
 	- matplotlib
 	- numpy
 	- pandas
-	
+	- Pickles
+		
 ## Python libraries for detection & analysis
 	- seaborn
 	- sklearn.preprocessing (LabelEncoder)
@@ -23,3 +24,8 @@
 	- 
 
 
+## UI 
+	- Django (Frame work)
+	- HTML
+	- CSS
+	
